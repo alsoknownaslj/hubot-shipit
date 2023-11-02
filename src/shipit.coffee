@@ -19,7 +19,6 @@
 squirrels = [
   "https://i.imgur.com/RLQpXfX.png",
   "https://i.imgur.com/sA1h34D.jpg",
-  "https://i.imgur.com/DEnnA6m.jpg",
   "https://i.imgur.com/oHJIlXI.jpg",
   "https://i.imgur.com/DPVM1.png",
   "https://i.imgur.com/BVpkdrU.jpg",
