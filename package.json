@@ -12,15 +12,17 @@
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-shipit/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hubot-shipit": "^0.2.1"
+  },
   "peerDependencies": {
     "hubot": ">=2 <10 || 0.0.0-development"
   },
   "devDependencies": {
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-release": "^0.14.0",
     "hubot": "2.x",
-    "grunt-release": "~0.6.0",
-    "matchdep": "~0.1.2",
-    "grunt-contrib-watch": "~0.5.3"
+    "matchdep": "^2.0.0"
   },
   "main": "index.coffee",
   "scripts": {
